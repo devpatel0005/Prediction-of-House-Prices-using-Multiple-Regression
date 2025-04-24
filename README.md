@@ -58,8 +58,26 @@ High R² indicates the model captures variance well and is a Generalized model.
 
 # 🚀 How to Run
 Clone the repo:
-git clone https://github.com/devpatel0005/House-Price-Prediction.git
-cd House-Price-Prediction
+```bash
+   git clone https://github.com/devpatel0005/House-Price-Prediction.git
+   cd House-Price-Prediction
+```
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+📦 Requirements
+```bash
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+```
+Open the Jupyter Notebook:
+```bash
+jupyter notebook Prediction_of_House_Prices_using_Multiple_Regression.ipynb
+```
 
 # 📈 Future Improvements
 Include more features (e.g., location encoding, amenities)
@@ -70,5 +88,7 @@ Deploy the model as a web app using Flask or FastAPI
 
 # 🧑‍💻 Author
 Patel Dev Dharmesh
+
 📧 devdpatel190905@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/devdpatel190905/) | [GitHub](https://github.com/devpatel0005/)
