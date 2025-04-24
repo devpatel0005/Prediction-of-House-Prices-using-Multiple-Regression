@@ -48,3 +48,27 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 
 Root Mean Squared Error (RMSE)
+
+# 📝 Results
+The model shows a decent predictive performance for estimating house prices with 97% Accuracy.
+
+Residuals follow a roughly normal distribution, suggesting a good fit.
+
+High R² indicates the model captures variance well and is a Generalized model.
+
+# 🚀 How to Run
+Clone the repo:
+git clone https://github.com/devpatel0005/House-Price-Prediction.git
+cd House-Price-Prediction
+
+# 📈 Future Improvements
+Include more features (e.g., location encoding, amenities)
+
+Try other regression techniques (Ridge, Lasso, XGBoost)
+
+Deploy the model as a web app using Flask or FastAPI
+
+# 🧑‍💻 Author
+Patel Dev Dharmesh
+📧 devdpatel190905@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/devdpatel190905/) | [GitHub](https://github.com/devpatel0005/)
