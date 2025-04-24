@@ -9,3 +9,42 @@ Algorithm Used: Multiple Linear Regression
 Tools & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Type: Supervised Regression.
+
+# 🧠 Key Concepts Covered
+Exploratory Data Analysis (EDA)
+
+Data preprocessing & feature selection
+
+Model training and evaluation
+
+Metrics: R² Score, MAE, MSE, RMSE
+
+Residual Analysis and model validation
+
+# 📊 Exploratory Data Analysis
+The notebook includes:
+
+Statistical summaries
+
+Correlation heatmaps
+
+Distribution plots
+
+Feature vs. Price scatter plots
+
+Outlier detection using boxplots
+
+# 🧪 Model Training & Evaluation
+Train/Test Split: 80% training, 20% testing
+
+Model: Scikit-learn's LinearRegression()
+
+Evaluation Metrics:
+
+R² Score
+
+Mean Absolute Error (MAE)
+
+Mean Squared Error (MSE)
+
+Root Mean Squared Error (RMSE)
