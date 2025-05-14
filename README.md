@@ -50,11 +50,10 @@ Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 
 # 📝 Results
-The model shows a decent predictive performance for estimating house prices with 97% Accuracy.
 
-Residuals follow a roughly normal distribution, suggesting a good fit.
+![1](https://github.com/user-attachments/assets/310c5628-9ad6-4aad-b376-d84ed3bb57e5)
+![image](https://github.com/user-attachments/assets/5336b2e9-d660-49b6-82ef-66d6144c3bb4)
 
-High R² indicates the model captures variance well and is a Generalized model.
 
 # 🚀 How to Run
 Clone the repo:
@@ -73,6 +72,8 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+streamlit
+joblib
 ```
 Open the Jupyter Notebook:
 ```bash
